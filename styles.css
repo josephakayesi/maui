@@ -483,7 +483,7 @@
    }
    
    .about-middle-first-image {
-     background-image: url("https://assets.website-files.com/639e122551585177b5c92af9/639e1a98e9b474ab492166ea_simone-hutsch-8FUD82rlJxs-unsplash.jpg");
+     background-image: url("model2.png");
      background-position: 50% 50%;
      background-size: cover;
      background-repeat: no-repeat;
@@ -491,7 +491,7 @@
    
    .about-middle-second-image {
      width: 300px;
-     background-image: url("https://assets.website-files.com/639e122551585177b5c92af9/639e1a998e7435ee867da348_simone-hutsch-CQphR2GPlrs-unsplash.jpg");
+     background-image: url("model1.png");
      background-position: 50% 100%;
      background-size: cover;
      background-repeat: no-repeat;
