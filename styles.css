@@ -228,14 +228,14 @@
    }
    
    .hero-slide {
-     background-image: url("foodstringvig1.png");
+     background-image: url("foodstringvig2.jpg");
      background-position: 50% 50%;
      background-size: cover;
      background-repeat: no-repeat;
    }
    
    .hero-slide.two {
-     background-image: url("foodstringvig2.jpg");
+     background-image: url("foodstringvig1.png");
    }
    
    .hero-slide.three {
