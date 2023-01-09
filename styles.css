@@ -2699,8 +2699,9 @@
    }
 
    img.avatar {
-    height: 200px;
-    width: 200px;
+    height: 12.5rem;
+    width: 12.5rem;
     border-radius: 50%; 
-    vertical-align: middle
+    vertical-align: middle;
+    max-width: none;
    }
