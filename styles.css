@@ -228,23 +228,23 @@
    }
    
    .hero-slide {
-     background-image: url("foodstringvig2.jpg");
+     background-image: url("https://res.cloudinary.com/tutcan/image/upload/v1673222469/maui/foodstringvig2.webp");
      background-position: 50% 50%;
      background-size: cover;
      background-repeat: no-repeat;
    }
    
    .hero-slide.two {
-     background-image: url("foodstringvig1.png");
+     background-image: url("https://res.cloudinary.com/tutcan/image/upload/v1673222470/maui/foodstringvig1.webp");
    }
    
    .hero-slide.three {
-     background-image: url("foodstringvig3.jpg");
+     background-image: url("https://res.cloudinary.com/tutcan/image/upload/v1673222469/maui/foodstringvig3.webp");
      background-position: 50% 80%;
    }
    
    .hero-slide.four {
-     background-image: url("foodstringvig4.png");
+     background-image: url("https://res.cloudinary.com/tutcan/image/upload/v1673222470/maui/foodstringvig4.webp");
    }
    
    .hero-slider-left-arrow {
@@ -483,7 +483,7 @@
    }
    
    .about-middle-first-image {
-     background-image: url("model2.png");
+     background-image: url("https://res.cloudinary.com/tutcan/image/upload/v1673222470/maui/model2.webp");
      background-position: 50% 50%;
      background-size: cover;
      background-repeat: no-repeat;
@@ -491,7 +491,7 @@
    
    .about-middle-second-image {
      width: 300px;
-     background-image: url("model1.png");
+     background-image: url("https://res.cloudinary.com/tutcan/image/upload/v1673222470/maui/model1.webp");
      background-position: 50% 100%;
      background-size: cover;
      background-repeat: no-repeat;
