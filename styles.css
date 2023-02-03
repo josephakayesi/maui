@@ -571,6 +571,19 @@
      background-repeat: no-repeat;
    }
    
+   .project-slide-image1 {
+    margin-bottom: 20px;
+    -webkit-box-flex: 1;
+    -webkit-flex: 1;
+    -ms-flex: 1;
+    flex: 1;
+    background-image: url("images/foodstring1.jpg");
+    background-position: 50% 50%;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+
+
    .project-slide-image2 {
     margin-bottom: 20px;
     -webkit-box-flex: 1;
