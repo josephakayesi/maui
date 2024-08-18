@@ -535,6 +535,7 @@
      padding: 100px 10vw;
      background-image: none;
      background-size: auto;
+     color: #1b1b1b
    }
    
    .projects-section.dark {
@@ -657,15 +658,25 @@
      -webkit-justify-content: space-between;
      -ms-flex-pack: justify;
      justify-content: space-between;
+     color: #292929
    }
    
+
+   a {
+    text-decoration: none;
+    color: black;
+  }
+
    .project-slide-title {
      font-size: 40px;
      line-height: 1;
+     color:rgb(0, 0, 0)c;
+     text-decoration: none;
    }
    
    .project-slide-title.white {
      color: #d1d1cc;
+     text-decoration: none;
    }
    
    .project-slide-category.white {
@@ -2765,3 +2776,49 @@
     vertical-align: middle;
     max-width: none;
    }
+
+
+
+   /* U ITEMS */
+   
+
+   * {
+    box-sizing: border-box;
+  }
+  
+  .column {
+    float: left;
+    width: 90%;
+    padding: 10px;
+    
+  }
+  
+  /* Clearfix (clear floats) */
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+
+
+
+  /* U ITEMS 2*/
+  
+  .u-section-1 .u-text-1 {
+    font-size: 1.875rem;
+    font-weight: 100;
+    margin: 0 10px 0 10px;
+  }
+  
+  .u-section-1 .u-text-2 {
+    margin: 28px 10px 0 10px;
+  }
+  
+  .u-section-1 .u-text-3 {
+    margin: 20px 10px 0;
+  }
+  
+  
+ 
+  
+
