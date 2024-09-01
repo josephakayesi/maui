@@ -177,6 +177,25 @@
    .hero-heading.white {
      color: #d1d1cc;
    }
+
+
+   .hero-subheading {
+    max-width: 20ch;
+    margin-top: 0px;
+    margin-right: 100px;
+    margin-bottom: 0px;
+    font-size: 35px;
+    letter-spacing: -4px;
+  }
+  
+  .hero-subheading.white {
+    color: #d1d1cc;
+  }
+
+
+
+
+
    
    .hero-date-wrapper {
      display: -webkit-box;
