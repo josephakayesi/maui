@@ -184,8 +184,8 @@
     margin-top: 0px;
     margin-right: 100px;
     margin-bottom: 0px;
-    font-size: 35px;
-    letter-spacing: -4px;
+    font-size: 28px;
+    letter-spacing: -1px;
   }
   
   .hero-subheading.white {
@@ -510,7 +510,7 @@
    
    .about-middle-second-image {
      width: 300px;
-     background-image: url("https://res.cloudinary.com/millicentakayesi/image/upload/v1767242349/WhatsApp_Image_2025-12-06_at_11.17.46_PM_cajwxo.jpg");
+     background-image: url("https://res.cloudinary.com/millicentakayesi/image/upload/v1767246199/potrait4_korsqw.png");
      background-position: 50% 100%;
      background-size: cover;
      background-repeat: no-repeat;
